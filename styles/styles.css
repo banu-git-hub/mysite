@@ -302,12 +302,14 @@ main .section.highlight {
    
      header nav .nav-sections .default-content-wrapper > ul > li:hover, header .nav-wrapper .nav-brand:hover{
         background-color: #ccc !important;
+         text-decoration: none;
     }
     header .nav-wrapper .nav-brand {
         flex-basis: 223px;
         font-size: 15px;
         font-weight: 400;
         line-height: 22.5px;
+        padding: 8px 16px;
     }
 }
 
