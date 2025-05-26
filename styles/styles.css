@@ -75,7 +75,7 @@ body {
   margin: 0;
   background-color: var(--background-color);
   color: var(--text-color);
-  font-family: var(--body-font-family);
+  font-family: "Times New Roman", Georgia, Serif;
   font-size: 15px;
   line-height: 1.5;
 }
