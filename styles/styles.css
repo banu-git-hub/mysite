@@ -260,9 +260,12 @@ main .section.highlight {
 /* Image and Text */
 .helloworld p{
     color: #757575;
-    margin-bottom: 50px;
 }
 
+.helloworld h3+p{
+    color: #757575;
+    margin-bottom: 50px;
+}
 #about-catering, #tradition-since-1889, #our-menu{
     text-align: center;    
 }
