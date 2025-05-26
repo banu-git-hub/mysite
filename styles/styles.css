@@ -285,9 +285,17 @@ main .section.highlight {
 }
 
 /* Header */
+
+@media (width >= 900px) {
+  
+    header nav[aria-expanded='true'] .nav-sections {
+      display: flex;
+      justify-content: end;
+    }
+}
 @media(min-width: 992px){
-    .nav-sections .default-content-wrapper{
-        display: flex;
-        justify-content: end;
+    header nav[aria-expanded='true'] .nav-sections {
+      display: flex;
+      justify-content: end;
     }
 }
