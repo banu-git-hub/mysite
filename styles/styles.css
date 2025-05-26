@@ -286,20 +286,20 @@ main .section.highlight {
 
 /* Header */
 
-
+ header nav .nav-sections .default-content-wrapper > ul > li{
+    padding: 8px 16px;
+    cursor: pointer;
+    letter-spacing: 4px;
+    font-size: 15px;
+    line-height: 22.5px;
+    font-family: "Times New Roman", Georgia, Serif;
+}
 @media(min-width: 992px){
     header nav[aria-expanded='true'] .nav-sections {
       display: flex !important;
       justify-content: end;
     }
-    header nav .nav-sections .default-content-wrapper > ul > li{
-        padding: 8px 16px;
-        cursor: pointer;
-        letter-spacing: 4px;
-        font-size: 15px;
-        line-height: 22.5px;
-        font-family: "Times New Roman", Georgia, Serif;
-    }
+   
      header nav .nav-sections .default-content-wrapper > ul > li:hover{
         background-color: #ccc !important;
     }
