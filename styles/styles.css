@@ -274,6 +274,12 @@ main .section.highlight {
 #about-catering, #tradition-since-1889, #our-menu{
     text-align: center;    
 }
+
+.helloworld .columns-wrapper .columns.columns-2-cols div:first-child{
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 4rem;
+}
 /* Footer */
 .footer-wrapper .footer .default-content-wrapper{
     justify-content: center;
