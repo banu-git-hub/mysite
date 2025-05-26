@@ -286,16 +286,10 @@ main .section.highlight {
 
 /* Header */
 
-@media (width >= 900px) {
-  
-    header nav[aria-expanded='true'] .nav-sections {
-      display: flex;
-      justify-content: end;
-    }
-}
+
 @media(min-width: 992px){
     header nav[aria-expanded='true'] .nav-sections {
-      display: flex;
+      display: flex !important;
       justify-content: end;
     }
 }
