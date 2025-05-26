@@ -261,4 +261,8 @@ main .section.highlight {
 .helloworld p{
     color: #757575;
 }
-
+/* Footer */
+.footer-wrapper .footer .default-content-wrapper{
+    justify-content: center;
+    display: flex;
+}
