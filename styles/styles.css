@@ -317,7 +317,11 @@ header nav a:any-link {
     font-size: 15px;
     line-height: 22.5px;
     letter-spacing: 4px;
-     font-family: "Times New Roman", Georgia, Serif;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+
+header nav a:any-link:hover {
+   text-decoration: none;
 }
 
 /* hero banner */
