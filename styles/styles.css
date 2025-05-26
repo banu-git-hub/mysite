@@ -261,6 +261,10 @@ main .section.highlight {
 .helloworld p{
     color: #757575;
 }
+
+#about-catering, #tradition-since-1889, #our-menu{
+    text-align: center;    
+}
 /* Footer */
 .footer-wrapper .footer .default-content-wrapper{
     justify-content: center;
