@@ -303,6 +303,12 @@ main .section.highlight {
      header nav .nav-sections .default-content-wrapper > ul > li:hover{
         background-color: #ccc !important;
     }
+    header .nav-brand {
+        flex-basis: 223px;
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 22.5px;
+    }
 }
 
 header nav a:any-link {
