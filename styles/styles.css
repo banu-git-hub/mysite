@@ -294,6 +294,11 @@ main .section.highlight {
     line-height: 22.5px;
     font-family: "Times New Roman", Georgia, Serif;
 }
+header .nav-wrapper .nav-brand {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22.5px;
+}
 @media(min-width: 992px){
     header nav[aria-expanded='true'] .nav-sections {
       display: flex !important;
@@ -306,9 +311,6 @@ main .section.highlight {
     }
     header .nav-wrapper .nav-brand {
         flex-basis: 223px;
-        font-size: 15px;
-        font-weight: 400;
-        line-height: 22.5px;
         padding: 8px 16px;
     }
 }
