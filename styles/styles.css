@@ -306,11 +306,10 @@ main .section.highlight {
 }
 
 header nav a:any-link {
-    color: currentcolor;
     font-size: 15px;
     line-height: 22.5px;
     letter-spacing: 4px;
-    font-family: times new roman;
+     font-family: "Times New Roman", Georgia, Serif;
 }
 
 /* hero banner */
