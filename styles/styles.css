@@ -276,7 +276,7 @@ main .section.highlight {
 }
 
 .helloworld .columns-wrapper .columns.columns-2-cols > div:first-child{
-    margin-bottom: 2rem;
+    margin-bottom: 4rem;
     border-bottom: 1px solid #eee;
     padding-bottom: 4rem;
 }
