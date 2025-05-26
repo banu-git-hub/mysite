@@ -292,6 +292,13 @@ main .section.highlight {
       display: flex !important;
       justify-content: end;
     }
+    header nav .nav-sections .default-content-wrapper > ul > li{
+        padding: 8px 16px;
+        cursor: pointer;
+    }
+     header nav .nav-sections .default-content-wrapper > ul > li:hover{
+        background-color: #ccc !important;
+    }
 }
 
 /* hero banner */
