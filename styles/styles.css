@@ -295,7 +295,7 @@ main .section.highlight {
 }
 
 /* hero banner */
-.le-catering{
+#le-catering{
     position: absolute;
     left: 0;
     bottom: 0;
