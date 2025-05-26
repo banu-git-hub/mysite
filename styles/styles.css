@@ -293,3 +293,11 @@ main .section.highlight {
       justify-content: end;
     }
 }
+
+/* hero banner */
+.le-catering{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 12px 24px !important;
+}
