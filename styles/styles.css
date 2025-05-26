@@ -300,10 +300,10 @@ main .section.highlight {
       justify-content: end;
     }
    
-     header nav .nav-sections .default-content-wrapper > ul > li:hover{
+     header nav .nav-sections .default-content-wrapper > ul > li:hover, header .nav-wrapper .nav-brand:hover{
         background-color: #ccc !important;
     }
-    header .nav-brand {
+    header .nav-wrapper .nav-brand {
         flex-basis: 223px;
         font-size: 15px;
         font-weight: 400;
