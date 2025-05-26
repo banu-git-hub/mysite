@@ -295,6 +295,7 @@ main .section.highlight {
     header nav .nav-sections .default-content-wrapper > ul > li{
         padding: 8px 16px;
         cursor: pointer;
+        letter-spacing: 4px;
     }
      header nav .nav-sections .default-content-wrapper > ul > li:hover{
         background-color: #ccc !important;
