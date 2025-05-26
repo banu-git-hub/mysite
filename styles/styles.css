@@ -283,3 +283,11 @@ main .section.highlight {
     font-size: 15px;
     line-height: 22.5px;
 }
+
+/* Header */
+@media(min-width: 992px){
+    .nav-sections .default-content-wrapper{
+        display: flex;
+        justify-content: end;
+    }
+}
