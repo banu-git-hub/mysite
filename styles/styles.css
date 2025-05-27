@@ -291,7 +291,9 @@ main .section.highlight {
 }
 
 /* Header */
-
+.hero h1 {
+    color: inherit;
+}
  header nav .nav-sections .default-content-wrapper > ul > li{
     padding: 8px 16px;
     cursor: pointer;
