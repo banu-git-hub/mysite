@@ -18,3 +18,13 @@ footer .footer p {
     padding: 40px 32px 24px;
   }
 }
+
+/* Footer */
+.footer-wrapper .footer .default-content-wrapper{
+    justify-content: center;
+    display: flex;
+}
+.footer-wrapper .footer .default-content-wrapper p{
+    font-size: 15px;
+    line-height: 22.5px;
+}
