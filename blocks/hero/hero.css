@@ -35,3 +35,11 @@
     padding: 40px 32px;
   }
 }
+
+/* hero banner */
+#le-catering{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 12px 24px !important;
+}
