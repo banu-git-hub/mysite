@@ -168,7 +168,7 @@
 .form .toggle-wrapper input:checked + .slider::before {
   transform: translateX(24px);
 }
-
+/*** Form New changes ***/
 
 .form-container h4{
     color: #607d8b !important;
@@ -176,4 +176,9 @@
     font-size: 18px;
     line-height: 27px;
     font-family: "Times New Roman", Georgia, Serif;
+}
+@media (width >= 900px) {
+    .form input, .form select, .form textarea {
+        max-width: 100vw;
+    }
 }
