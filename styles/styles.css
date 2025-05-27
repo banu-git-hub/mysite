@@ -309,7 +309,7 @@ header .nav-wrapper .nav-brand {
     line-height: 22.5px;
 }
 @media(min-width: 992px){
-    .hero {
+    .hero-wrapper .hero {
         min-height: 632px;
     }
     header nav[aria-expanded='true'] .nav-sections {
