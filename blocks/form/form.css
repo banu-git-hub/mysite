@@ -168,3 +168,12 @@
 .form .toggle-wrapper input:checked + .slider::before {
   transform: translateX(24px);
 }
+
+
+.form-container h4{
+    color: #607d8b !important;
+    letter-spacing: 0;
+    font-size: 18px;
+    line-height: 27px;
+    font-family: "Times New Roman", Georgia, Serif;
+}
