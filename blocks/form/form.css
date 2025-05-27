@@ -190,7 +190,7 @@
 }
 
 .form input:hover, .form select:hover, .form textarea:hover {
-    border: none;
+    border-bottom: 1px solid #ccc;
     
 }
 @media (width >= 900px) {
