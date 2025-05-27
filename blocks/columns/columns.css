@@ -31,3 +31,27 @@
     order: unset;
   }
 }
+
+/* Image and Text */
+.helloworld p{
+    color: #757575;
+}
+
+.helloworld h3+p{
+    color: #757575;
+    margin-bottom: 50px;
+}
+
+#tradition-since-1889{
+    padding-bottom: 1rem;
+    padding-top: 2rem;
+}
+#about-catering, #tradition-since-1889, #our-menu{
+    text-align: center;    
+}
+
+.helloworld .columns-wrapper .columns.columns-2-cols > div:first-child{
+    margin-bottom: 4rem;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 4rem;
+}
