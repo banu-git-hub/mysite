@@ -268,6 +268,17 @@ header nav .nav-tools {
 }
 
 /* Header */
+header nav a:any-link {
+    font-size: 15px;
+    line-height: 22.5px;
+    letter-spacing: 4px;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+
+header nav a:any-link:hover {
+   text-decoration: none;
+}
+
 header nav .nav-sections .default-content-wrapper > ul > li{
     padding: 8px 16px;
     cursor: pointer;
