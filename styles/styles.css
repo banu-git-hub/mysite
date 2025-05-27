@@ -348,3 +348,8 @@ header nav a:any-link:hover {
     bottom: 0;
     padding: 12px 24px !important;
 }
+
+
+main > .section > div {
+    max-width: 1100px;
+}
