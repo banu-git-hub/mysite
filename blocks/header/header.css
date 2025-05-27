@@ -266,3 +266,18 @@ header nav .nav-sections ul > li > ul > li {
 header nav .nav-tools {
   grid-area: tools;
 }
+
+/* Header */
+header nav .nav-sections .default-content-wrapper > ul > li{
+    padding: 8px 16px;
+    cursor: pointer;
+    letter-spacing: 4px;
+    font-size: 15px;
+    line-height: 22.5px;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+header .nav-wrapper .nav-brand {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22.5px;
+}
