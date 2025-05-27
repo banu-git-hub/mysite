@@ -191,7 +191,7 @@
 
 .form input:hover, .form select:hover, .form textarea:hover {
     border: none;
-    outline: none;
+    
 }
 @media (width >= 900px) {
     .form input, .form select, .form textarea {
