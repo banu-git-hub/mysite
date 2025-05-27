@@ -292,11 +292,9 @@ main .section.highlight {
 
 /* Header */
 .hero h1 {
-    color: inherit;
+    color: inherit !important;
 }
-.hero {
-    min-height: 632px;
-}
+
  header nav .nav-sections .default-content-wrapper > ul > li{
     padding: 8px 16px;
     cursor: pointer;
@@ -311,6 +309,9 @@ header .nav-wrapper .nav-brand {
     line-height: 22.5px;
 }
 @media(min-width: 992px){
+    .hero {
+        min-height: 632px;
+    }
     header nav[aria-expanded='true'] .nav-sections {
       display: flex !important;
       justify-content: end;
