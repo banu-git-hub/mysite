@@ -37,6 +37,9 @@
 }
 
 /* hero banner */
+.hero h1 {
+    color: inherit !important;
+}
 #le-catering{
     position: absolute;
     left: 0;
