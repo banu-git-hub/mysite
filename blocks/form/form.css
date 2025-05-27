@@ -94,7 +94,7 @@
   .form input,
   .form select,
   .form textarea {
-    max-width: 50vw;
+    max-width: 100vw;
   }
 
   .form .button {
@@ -106,7 +106,7 @@
   .form input,
   .form select,
   .form textarea {
-    max-width: 33vw;
+    max-width: 100vw;
   }
 }
 
@@ -190,10 +190,6 @@
     border-radius: 2px;
     border: none;
 }
-
-.form input, .form select, .form textarea {
-    max-width: 100vw;
-}
 .form-container button {
     font-family: "Times New Roman", Georgia, Serif;
     background-color: #f1f1f1;
@@ -203,3 +199,9 @@
 .form-container button:hover {
     background-color: #ccc;
 }
+ .form-container h2{
+     padding-bottom: 2rem;
+ }
+ .form-container h4{
+     padding-bottom: 1rem;
+ }
