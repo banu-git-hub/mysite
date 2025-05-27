@@ -191,7 +191,8 @@
 
 .form input:hover, .form select:hover, .form textarea:hover {
     border-bottom: 1px solid #ccc;
-    
+     border-radius: 0;
+    border: inherit;
 }
 @media (width >= 900px) {
     .form input, .form select, .form textarea {
