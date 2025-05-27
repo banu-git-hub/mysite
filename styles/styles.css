@@ -281,15 +281,6 @@ main .section.highlight {
     border-bottom: 1px solid #eee;
     padding-bottom: 4rem;
 }
-/* Footer */
-.footer-wrapper .footer .default-content-wrapper{
-    justify-content: center;
-    display: flex;
-}
-.footer-wrapper .footer .default-content-wrapper p{
-    font-size: 15px;
-    line-height: 22.5px;
-}
 
 /* Header */
 .hero h1 {
