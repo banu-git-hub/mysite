@@ -258,95 +258,12 @@ main .section.highlight {
   padding: 40px 0;
 }
 
-/* Image and Text */
-.helloworld p{
-    color: #757575;
-}
 
-.helloworld h3+p{
-    color: #757575;
-    margin-bottom: 50px;
-}
 
-#tradition-since-1889{
-    padding-bottom: 1rem;
-    padding-top: 2rem;
-}
-#about-catering, #tradition-since-1889, #our-menu{
-    text-align: center;    
-}
 
-.helloworld .columns-wrapper .columns.columns-2-cols > div:first-child{
-    margin-bottom: 4rem;
-    border-bottom: 1px solid #eee;
-    padding-bottom: 4rem;
-}
 
-/* Header */
-.hero h1 {
-    color: inherit !important;
-}
 
- header nav .nav-sections .default-content-wrapper > ul > li{
-    padding: 8px 16px;
-    cursor: pointer;
-    letter-spacing: 4px;
-    font-size: 15px;
-    line-height: 22.5px;
-    font-family: "Times New Roman", Georgia, Serif;
-}
-header .nav-wrapper .nav-brand {
-    font-size: 15px;
-    font-weight: 400;
-    line-height: 22.5px;
-}
-@media(min-width: 992px){
-    .helloworld .columns > div {
-        align-items: flex-start;
-    }
-    .hero-wrapper .hero {
-        min-height: 632px;
-    }
-    header nav[aria-expanded='true'] .nav-sections {
-      display: flex !important;
-      justify-content: end;
-    }
-   
-     header nav .nav-sections .default-content-wrapper > ul > li:hover, header .nav-wrapper .nav-brand:hover{
-        background-color: #ccc !important;
-         text-decoration: none;
-    }
-    header .nav-wrapper .nav-brand {
-        flex-basis: 223px;
-        padding: 8px 16px;
-    }
-    main > .section > div {
-        max-width: 1100px;
-    }
-    .columns > div > .columns-img-col img {
-        width: 500px;
-        padding: 12px 24px !important;
-    }
-}
 
-header nav a:any-link {
-    font-size: 15px;
-    line-height: 22.5px;
-    letter-spacing: 4px;
-    font-family: "Times New Roman", Georgia, Serif;
-}
-
-header nav a:any-link:hover {
-   text-decoration: none;
-}
-
-/* hero banner */
-#le-catering{
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    padding: 12px 24px !important;
-}
 
 
 
