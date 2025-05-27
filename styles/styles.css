@@ -309,7 +309,7 @@ header .nav-wrapper .nav-brand {
     line-height: 22.5px;
 }
 @media(min-width: 992px){
-    .columns > div {
+    .helloworld .columns > div {
         align-items: flex-start;
     }
     .hero-wrapper .hero {
