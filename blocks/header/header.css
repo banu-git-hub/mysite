@@ -268,6 +268,9 @@ header nav .nav-tools {
 }
 
 /* Header */
+header .nav-wrapper {
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
 header nav a:any-link {
     font-size: 15px;
     line-height: 22.5px;
