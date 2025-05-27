@@ -355,4 +355,5 @@ main > .section > div {
 }
 .columns > div > .columns-img-col img {
     width: 500px;
+    padding: 12px 24px !important;
 }
